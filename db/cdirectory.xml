@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="cdirectory.xsd" generated="2020-07-29T14:08:14">
+<Table1>
+<Id>1</Id>
+<Charity_x0020_Name>BIRMINGHAM INTERNATIONAL</Charity_x0020_Name>
+<Address>2500 ACTON ROAD
+BIRMINGHAM, AL 35243-4219</Address>
+<Year_x0020_founded>2014</Year_x0020_founded>
+<Category>Cultural, Ethnic Awareness</Category>
+<EIN>63-0336134</EIN>
+</Table1>
+<Table1>
+<Id>2</Id>
+<Charity_x0020_Name>Boys &amp; Girls Clubs of Central Alabama</Charity_x0020_Name>
+<Address>2380 Old Springville Road
+Birmingham, AL 35215</Address>
+<Phone_x0020_Number>(205) 815-0703</Phone_x0020_Number>
+<Email>info@bgcca.org</Email>
+<Website>https://www.bgcca.org/</Website>
+<Mission_x002F_Tagline>x</Mission_x002F_Tagline>
+<Year_x0020_founded>1</Year_x0020_founded>
+<Category>x</Category>
+<Rating>x</Rating>
+<EIN>63-0302102</EIN>
+<Current_x0020_Needs>x</Current_x0020_Needs>
+</Table1>
+<Table1>
+<Id>3</Id>
+<Charity_x0020_Name>Charity 3</Charity_x0020_Name>
+<Address>Address 3</Address>
+<Phone_x0020_Number>113-1113</Phone_x0020_Number>
+<Email>Email3</Email>
+<Website>Website3</Website>
+<Mission_x002F_Tagline>Mission3</Mission_x002F_Tagline>
+<Year_x0020_founded>2015</Year_x0020_founded>
+<Category>Animals</Category>
+<Rating>3</Rating>
+<EIN>333-33333</EIN>
+</Table1>
+<Table1>
+<Id>4</Id>
+<Charity_x0020_Name>Charity 4</Charity_x0020_Name>
+<Address>Address 4</Address>
+<Phone_x0020_Number>114-1114</Phone_x0020_Number>
+<Email>Email 4</Email>
+<Website>Website4</Website>
+<Mission_x002F_Tagline>Mission4</Mission_x002F_Tagline>
+<Year_x0020_founded>2016</Year_x0020_founded>
+<Category>Covid19</Category>
+<Rating>4</Rating>
+<EIN>44-4444444</EIN>
+</Table1>
+<Table1>
+<Id>5</Id>
+<Charity_x0020_Name>Charity 5</Charity_x0020_Name>
+<Address>Address 5</Address>
+<Phone_x0020_Number>115-1115</Phone_x0020_Number>
+<Email>Email 5</Email>
+<Website>Website 5</Website>
+<Mission_x002F_Tagline>Mission 5</Mission_x002F_Tagline>
+<Year_x0020_founded>2017</Year_x0020_founded>
+<Category>Homeless</Category>
+<Rating>5</Rating>
+<EIN>55-5555555</EIN>
+</Table1>
+<Table1>
+<Id>6</Id>
+<Charity_x0020_Name>Charity 6</Charity_x0020_Name>
+<Address>Address 6</Address>
+<Phone_x0020_Number>116-1116</Phone_x0020_Number>
+<Email>Email6</Email>
+<Website>Website 6</Website>
+<Mission_x002F_Tagline>Mission 6</Mission_x002F_Tagline>
+<Year_x0020_founded>2018</Year_x0020_founded>
+<Category>Religion</Category>
+<Rating>5</Rating>
+<EIN>66-6666666</EIN>
+</Table1>
+<Table1>
+<Id>7</Id>
+<Charity_x0020_Name>Charity 7</Charity_x0020_Name>
+<Address>Address 7</Address>
+<Phone_x0020_Number>117-1117</Phone_x0020_Number>
+<Email>Email7</Email>
+<Website>Website 7</Website>
+<Mission_x002F_Tagline>Mission 7</Mission_x002F_Tagline>
+<Year_x0020_founded>2019</Year_x0020_founded>
+<Category>Race</Category>
+<Rating>3</Rating>
+<EIN>77-7777777</EIN>
+</Table1>
+<Table1>
+<Id>8</Id>
+<Charity_x0020_Name>Charity 8</Charity_x0020_Name>
+<Address>Address 8</Address>
+<Phone_x0020_Number>118-1118</Phone_x0020_Number>
+<Email>Email8</Email>
+<Website>Website 8</Website>
+<Mission_x002F_Tagline>Mission 8</Mission_x002F_Tagline>
+<Year_x0020_founded>1987</Year_x0020_founded>
+<Category>Animals</Category>
+<Rating>2</Rating>
+<EIN>88-8888888</EIN>
+</Table1>
+<Table1>
+<Id>9</Id>
+<Charity_x0020_Name>Charity 9</Charity_x0020_Name>
+<Address>Address 9</Address>
+<Phone_x0020_Number>119-1119</Phone_x0020_Number>
+<Email>Email9</Email>
+<Website>Website 9</Website>
+<Mission_x002F_Tagline>Mission 9</Mission_x002F_Tagline>
+<Year_x0020_founded>1993</Year_x0020_founded>
+<Category>Religion</Category>
+<Rating>4</Rating>
+<EIN>99-9999999</EIN>
+</Table1>
+</dataroot>
